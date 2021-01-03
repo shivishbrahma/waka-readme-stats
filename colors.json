@@ -1455,6 +1455,10 @@
         "color": "#cf142b",
         "url": "https://github.com/trending?l=Turing"
     },
+    "Twig": {
+        "color": "##52a000",
+        "url": "https://github.com/trending?l=Twig"
+    },
     "TXL": {
         "color": null,
         "url": "https://github.com/trending?l=TXL"
