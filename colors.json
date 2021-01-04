@@ -799,6 +799,10 @@
 		"color": null,
 		"url": "https://github.com/trending?l=Mako"
 	},
+	"Markdown": {
+		"color": "#0e0e0e",
+		"url": "https://github.com/trending?l=Markdown"
+	},
 	"Mask": {
 		"color": "#f97732",
 		"url": "https://github.com/trending?l=Mask"
@@ -1598,6 +1602,10 @@
 	"Yacc": {
 		"color": "#4B6C4B",
 		"url": "https://github.com/trending?l=Yacc"
+	},
+	"YAML": {
+		"color": "#00244f",
+		"url": "https://github.com/trending?l=YAML"
 	},
 	"YARA": {
 		"color": "#220000",
