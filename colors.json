@@ -131,6 +131,10 @@
 		"color": null,
 		"url": "https://github.com/trending?l=BitBake"
 	},
+	"Blade": {
+		"color": "#eb4e43",
+		"url": "https://github.com/trending?l=Blade"
+	},
 	"BlitzBasic": {
 		"color": null,
 		"url": "https://github.com/trending?l=BlitzBasic"
@@ -1460,7 +1464,7 @@
 		"url": "https://github.com/trending?l=Turing"
 	},
 	"Twig": {
-		"color": "##52a000",
+		"color": "#52a000",
 		"url": "https://github.com/trending?l=Twig"
 	},
 	"TXL": {
@@ -1468,7 +1472,7 @@
 		"url": "https://github.com/trending?l=TXL"
 	},
 	"TypeScript": {
-		"color": "#2b7489",
+		"color": "#0076c6",
 		"url": "https://github.com/trending?l=TypeScript"
 	},
 	"Unified Parallel C": {
